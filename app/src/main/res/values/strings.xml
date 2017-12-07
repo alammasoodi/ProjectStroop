@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stroop Test</string>
+    <string name="stroop_title">Every time a word appears, select the first letter of the name of the Color that is shown </string>
+</resources>
